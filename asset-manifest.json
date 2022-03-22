@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/iss-position/static/css/main.073c9b0a.css",
-    "main.js": "/iss-position/static/js/main.3b79fed7.js",
+    "main.css": "/iss-position/static/css/main.182da27b.css",
+    "main.js": "/iss-position/static/js/main.ad6cdc17.js",
     "static/js/787.57ae231b.chunk.js": "/iss-position/static/js/787.57ae231b.chunk.js",
-    "static/media/logo.svg": "/iss-position/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/iss.svg": "/iss-position/static/media/iss.1f447f095b0809f13626a805b88ec813.svg",
     "index.html": "/iss-position/index.html",
-    "main.073c9b0a.css.map": "/iss-position/static/css/main.073c9b0a.css.map",
-    "main.3b79fed7.js.map": "/iss-position/static/js/main.3b79fed7.js.map",
+    "main.182da27b.css.map": "/iss-position/static/css/main.182da27b.css.map",
+    "main.ad6cdc17.js.map": "/iss-position/static/js/main.ad6cdc17.js.map",
     "787.57ae231b.chunk.js.map": "/iss-position/static/js/787.57ae231b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3b79fed7.js"
+    "static/css/main.182da27b.css",
+    "static/js/main.ad6cdc17.js"
   ]
 }
